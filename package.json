@@ -33,9 +33,6 @@
   "engine": "node >= 0.10",
   "main": "lib/index.js",
   "browser": "lib/client",
-  "bin": {
-    "sharejs": "bin/sharejs"
-  },
   "scripts": {
     "build": "make",
     "test": "mocha",
